@@ -1,2 +1,2 @@
 # Cheatsheets
-These are cheetsheet i have been using them for long time.
+These are cheatsheet i have been using them for long time.
